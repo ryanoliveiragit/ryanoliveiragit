@@ -1,10 +1,13 @@
 ### Olá! Eu sou o Ryan OLiveira.
 
 
-- ⚡️ Apaixonado por tecnologia.
-- ⚡️ Estudante de desenvolvimento web.
+<div align="left" padding-left="50%">
+⚡️ Olá!! prazer, sou estudante de desenvolvimento web sempre buscando mais conhecimentos em curso e pesquisas na internet, atualmente tenho adquirido experiências desenvolvendo projetos pessoais e fazendo alguns cursos, tenho conhecimentos em <br>
+  HTML5, CSS3, Javascript, NodeJS e ReactJS ;)
+ </div>
+ <br>
 <div align="center">
   <a href="https://github.com/ryanoliveiragit">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryanoliveiragit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanoliveiragit&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryanoliveiragit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanoliveiragit&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
