@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ryan OLiveira.
+### Olá! Eu sou o Ryan Oliveira.
 
 
 <div align="left" padding-left="50%">
