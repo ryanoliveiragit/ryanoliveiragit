@@ -2,7 +2,7 @@
 
 
 <div align="left" padding-left="50%">
-         Olá!! prazer, sou estudante de desenvolvimento web sempre buscando mais conhecimentos em curso e pesquisas na internet, atualmente tenho adquirido experiências desenvolvendo projetos pessoais e fazendo alguns cursos, tenho conhecimentos em <br>
+         Prazer, sou estudante de desenvolvimento web sempre buscando mais conhecimentos em curso e pesquisas na internet, atualmente tenho adquirido experiências desenvolvendo projetos pessoais e fazendo alguns cursos, tenho conhecimentos em <br>
   HTML5, CSS3, Javascript, NodeJS e ReactJS ;)
  </div>
  <br>
