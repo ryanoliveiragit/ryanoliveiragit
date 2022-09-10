@@ -9,7 +9,7 @@
 </div>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanoliveiragit&theme=gotham&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryanoliveiragit&theme=gotham&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
 
 
 [logo-url]: https://cdn.discordapp.com/attachments/1017140236528140318/1017979869885366272/ryanvs2.png
