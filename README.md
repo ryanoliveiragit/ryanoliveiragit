@@ -11,6 +11,6 @@
 [![][banner-url]][repo-url]  
 
 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[logo-url]: https://media.discordapp.net/attachments/1017140236528140318/1017979294867275826/ryanvs2.png?width=450&height=245
 [repo-url]: https://github.com/saadeghi/daisyui
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
