@@ -15,7 +15,7 @@
 
   ## Recent github active
   <br/>
-   <a href="https://github.com/ryanoliveiragit"><img alt="ryanoliveiragit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryanoliveiragit&custom_title=ryanoliveiragut's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ryanoliveiragit"><img alt="ryanoliveiragit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryanoliveiragit&custom_title=ryanoliveiragit%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
