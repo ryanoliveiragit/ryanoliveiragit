@@ -28,5 +28,4 @@
 Last Edited on: 10/02/2022
 
 [logo-url]: https://media.discordapp.net/attachments/1017140236528140318/1017989033747550218/ryanvs2.png?width=274&height=73
-[repo-url]: https://github.com/saadeghi/daisyui
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+[repo-url]: https://github.com/ryanoliveiragit
