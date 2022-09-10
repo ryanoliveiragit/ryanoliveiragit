@@ -1,12 +1,14 @@
 <div align="left">
 
-[![][logo-url]][repo-url]  
+[![][logo-url]][repo-url]
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+# Hi, i'am Ryan.
+<p>Front-End Jr Developer | JavaScript | ReactJS | NextJS | GIT | StyledComponents | NodeJS </p>
 
 </div>
 
-### :smiley_cat: I Am Ryan Oliveira
-### Experiences in front-end development and web design always abreast of new developments to create interfaces following concepts and advances.
-Front-End Jr Developer | JavaScript | ReactJS | NextJS | GIT | StyledComponents | NodeJS
+#### Experiences in front-end development and web design always abreast of new developments to create interfaces following concepts and advances.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
