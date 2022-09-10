@@ -1,6 +1,5 @@
 # Hi, i'am Ryan.
 <p>Front-End Jr Developer | JavaScript | ReactJS | NextJS | GIT | StyledComponents | NodeJS </p>
-
 </div>
 
 #### Experiences in front-end development and web design always abreast of new developments to create interfaces following concepts and advances.
