@@ -6,6 +6,7 @@
 
 ### :smiley_cat: I Am Ryan Oliveira
 ### Experiences in front-end development and web design always abreast of new developments to create interfaces following concepts and advances.
+Front-End Jr Developer | JavaScript | ReactJS | NextJS | GIT | StyledComponents | NodeJS
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -19,9 +20,8 @@
   <br/>
    <a href="https://github.com/ryanoliveiragit"><img alt="ryanoliveiragit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryanoliveiragit&custom_title=ryanoliveiragut's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 <br/>
+
 
 Last Edited on: 10/02/2022
 
