@@ -11,8 +11,8 @@
 
 ## By the way here are some of my statistics 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ryanoliveiragit&_icons=true&theme=tokyonight" width="390"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanoliveiragit&theme=tokyonight" alt="mystreak" width="390"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ryanoliveiragit&_icons=true&theme=tokyonight" width="410"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanoliveiragit&theme=tokyonight" alt="mystreak" width="410"/>
 </div>
 
   ## Recent github active
