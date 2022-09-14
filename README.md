@@ -7,9 +7,6 @@
   <img src=https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white />
 </div>
 <br/>
-
-Estou sempre aberto a novos desafios e oportunidades, você também pode me encontrar em:
-
 </div>
 
 #### Experiences in front-end development and web design always abreast of new developments to create interfaces following concepts and advances.
