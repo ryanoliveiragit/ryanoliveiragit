@@ -1,4 +1,4 @@
-# Hi, i'am Ryan Oliveira brito
+# Hi, i'am Ryan Oliveira
 <div>
   <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
   <img src=https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333 />
