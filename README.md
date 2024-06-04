@@ -2,8 +2,8 @@
 
 Frontend Developer & UI Designer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)]([https://www.linkedin.com/in/iuricode/](https://www.linkedin.com/in/ryan-oliveira-169a371a4/)) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:ryanoliveirasp@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Oliveira-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-oliveira-169a371a4/)](https://www.linkedin.com/in/ryan-oliveira-169a371a4/)
+[![Gmail Badge](https://img.shields.io/badge/-ryanoliveirasp@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryanoliveirasp@gmail.com)](mailto:ryanoliveirasp@gmail.com)
 
 Meu nome é Ryan Oliveira, ou “ryanvs” (é como me chamam agora). Sou freelancer como Frontend Developer e UI Designer desde 2022. Sou extremamente apaixonado por café e cultura coreana.
 
